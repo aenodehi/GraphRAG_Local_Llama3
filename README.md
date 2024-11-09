@@ -12,7 +12,7 @@ Follow these instructions to set up and run the Document App on your local machi
 
 ```bash
 git clone https://github.com/aenodehi/GraphRAG_Local_Llama3.git
-cd Document-App
+cd GraphRAG_Local_Llama3
 
 docker compose up -d
 
